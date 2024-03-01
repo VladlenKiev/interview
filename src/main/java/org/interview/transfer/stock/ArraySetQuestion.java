@@ -1,4 +1,4 @@
-package org.interview.transfer.collection;
+package org.interview.transfer.stock;
 
 import org.junit.Test;
 
